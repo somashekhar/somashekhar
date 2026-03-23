@@ -1,7 +1,6 @@
   <div align="center">                                                                                                                                                                                               
    
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Data+Engineer;Go+%7C+Python+%7C+Cloud+Native;Kubernetes+%7C+Ter
-  raform+%7C+Data+Pipelines;Building+at+Scale+%40+HelloFresh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Data+Engineer;Go+%7C+Python+%7C+Cloud+Native;Kubernetes+%7C+Terraform+%7C+Data+Pipelines;Building+at+Scale+%40+HelloFresh" alt="Typing SVG" />
                                                                                                                                                                                                                      
   </div>                                                    
 
